@@ -1,4 +1,3 @@
-// Mock user data
 const mockData = [
     { id: 1, name: "John Doe", email: "john@example.com", avatar: "https://randomuser.me/api/portraits/men/1.jpg" },
     { id: 2, name: "Jane Smith", email: "jane@example.com", avatar: "https://randomuser.me/api/portraits/women/1.jpg" },
@@ -37,12 +36,6 @@ const mockData = [
       }, 0);
     });
   }
-  
-//   function init() {
-   
-//   }
-  
-//   init();
 
 display();
 load();
